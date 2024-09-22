@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travellery/static/css/main.cf5e00bc.css",
+    "main.js": "/Travellery/static/js/main.d1a0ad73.js",
+    "static/media/dino-reichmuth-A5rCN8626Ck-unsplash.jpg": "/Travellery/static/media/dino-reichmuth-A5rCN8626Ck-unsplash.2cfe92c259aafcbf4987.jpg",
+    "static/media/julian-yu-_WuPjE-MPHo-unsplash.jpg": "/Travellery/static/media/julian-yu-_WuPjE-MPHo-unsplash.1f6d34653c7aef46c8ba.jpg",
+    "static/media/luca-bravo-O453M2Liufs-unsplash.jpg": "/Travellery/static/media/luca-bravo-O453M2Liufs-unsplash.ce1ff30264383a7e0d05.jpg",
+    "static/media/img3.jpg": "/Travellery/static/media/img3.27e04c6ee7338ba29438.jpg",
+    "static/media/img2.jpg": "/Travellery/static/media/img2.daf59f73de21cb0bc5ce.jpg",
+    "static/media/img5.jpg": "/Travellery/static/media/img5.f246be6cbf5c870359fb.jpg",
+    "static/media/29381.jpg": "/Travellery/static/media/29381.2bdf0059ba85a3f1b43a.jpg",
+    "static/media/img6.jpg": "/Travellery/static/media/img6.29c67be0d67ccf67286a.jpg",
+    "static/media/img4.jpg": "/Travellery/static/media/img4.c943d20b54f48df9fd9b.jpg",
+    "static/media/pexels-suju-22475982.jpg": "/Travellery/static/media/pexels-suju-22475982.53c0dfd81c240a2fabe8.jpg",
+    "static/media/pexels-andiravsanjani-974266.jpg": "/Travellery/static/media/pexels-andiravsanjani-974266.a298512b0dd96c5acc9c.jpg",
+    "index.html": "/Travellery/index.html",
+    "main.cf5e00bc.css.map": "/Travellery/static/css/main.cf5e00bc.css.map",
+    "main.d1a0ad73.js.map": "/Travellery/static/js/main.d1a0ad73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf5e00bc.css",
+    "static/js/main.d1a0ad73.js"
+  ]
+}
