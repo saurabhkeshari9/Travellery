@@ -1,0 +1,49 @@
+.about{
+    position: relative;
+}
+.about img{
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+}
+.about .Overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4); /* Black background with opacity */
+}
+.content{
+    text-align: center;
+    margin: 80px auto;
+}
+.content h6{
+    font-size: 50px;
+    font-weight: 600;
+    border-bottom: 1.5px solid red;
+}
+.content p{
+    font-size: 15px;
+}
+.about_main img{
+    margin-top: 100px;
+    object-fit: cover;
+    height: 600px;
+    width: 700px;
+    
+    margin-bottom: 50px;
+}
+.about_main .col-sm-7 h6{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: -660px;
+    margin-left: 750px;
+    width: 500px;
+}
+.about_main .col-sm-7 p{
+    margin-left: 760px;
+    width: 360px;
+    margin-bottom: 250px;
+    font-size: 18px;
+}

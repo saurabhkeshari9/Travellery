@@ -1,0 +1,46 @@
+.contact{
+    position: relative;
+}
+.contact img{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+.Overlays{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    opacity: 0.3;
+}
+.Contact_Content{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+}
+.Contact_Content form{
+    width: 500px;
+    background: #fff;
+    padding: 20px;
+}
+.btns{
+background-color: red;
+border-radius: 1.2em;
+border-color: #fff;
+margin-top: 2%;
+}
+.Contact_Content .form-group {
+    margin: 15px auto;
+
+}
+.Contact_Content form h6 {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+.Contact_Content .btns{
+    width: 100%;
+}
+

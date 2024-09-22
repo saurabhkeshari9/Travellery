@@ -1,0 +1,58 @@
+.header{
+    position: relative;
+}
+.header img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    
+}
+.header .Overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    opacity: 0.5;
+}
+.header .Content{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+}
+.header .Content h6{
+    font-size: 50px;
+    font-size: 600;
+}
+.btn {
+    width: 300px;
+    background: var(--main);
+    color: #fff !important;
+    border-radius: 15px;
+}
+.btn:hover{
+    letter-spacing: 3px;
+    width: 310px;
+}
+
+.custom-container {
+    margin: 150px auto;
+}
+.custom-container img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    margin-top: -80px;
+}
+.custom-container .col-sm-4 div{
+    margin: 20px auto;
+    margin-left: 50px;
+}
+.custom-container .col-sm-4 h6{
+    font-size: 35px;
+    font-weight: 600;
+}
